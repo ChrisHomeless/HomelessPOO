@@ -4,6 +4,8 @@
 
 1. Entrar a https://dotnet.microsoft.com/download/dotnet-core/2.2
 
+![ss1](https://user-images.githubusercontent.com/54300876/65073154-1e8d6880-d947-11e9-9cb4-b23b443831e6.png)
+
 2. Descargar dotnet 2.2 SDK
 
 3. Ejecutar lo descargado
